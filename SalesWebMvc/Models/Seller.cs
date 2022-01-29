@@ -28,6 +28,7 @@ namespace SalesWebMvc.Models
             this.BirthDate = BirthDate;
             this.BaseSalary = BaseSalary;
             this.Department = Department;
+            
         }
 
         public void AddSales(SalesRecord sr)
